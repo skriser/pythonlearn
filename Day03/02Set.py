@@ -25,11 +25,3 @@ print type(set3)
 # 4.直接写
 set4 = {'k1', 'k2', 'k3'}
 print set4
-
-
-
-
-
-
-
-
