@@ -28,9 +28,9 @@ class Employee:
         print 'Name:', self.name, 'Salary', self.salary
 
 
-e1 = Employee('na11me', 2000)
-e1.showCount()
-e2 = Employee('nam1e', 4000)
-e2.showCount()
-print e1.name, e2.address
-print Employee.name
+# e1 = Employee('na11me', 2000)
+# e1.showCount()
+# e2 = Employee('nam1e', 4000)
+# e2.showCount()
+# print e1.name, e2.address
+# print Employee.name

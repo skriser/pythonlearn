@@ -18,22 +18,23 @@ def compute_time():
     # 在线程里面停止两秒
     time.sleep(2)
     print 'world'
-#
-#
-# compute_time()
 
 
-# def compute_time1():
-#     start_time = time.time()
-#     print 'hello'
-#     time.sleep(2)
-#     print 'world'
-#     end_time = time.time()
-#     msecs = end_time - start_time
-#     print '时间差是：%d' %(msecs * 1000)
-#
-#
-# compute_time1()
+compute_time()
+
+
+def compute_time1():
+    start_time = time.time()
+    print 'hello'
+    time.sleep(2)
+    print 'world'
+    end_time = time.time()
+    msecs = end_time - start_time
+    print '时间差是：%d' %(msecs * 1000)
+
+
+compute_time1()
+
 
 def compute_decorator(fun):
     start_time = time.time()
