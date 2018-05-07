@@ -14,14 +14,19 @@ def print_me(str1):
     # 输出指定内容
     print str1
 
+
 print_me( '初来乍到fun' )
+
 
 def sayhello():
     print "你好"
 
+
 sayhello()
+
 
 def zhazhi(name,fruit):
     print name, '炸出了', fruit, '汁'
+
 
 zhazhi('小红','苹果')

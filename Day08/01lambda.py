@@ -7,7 +7,7 @@
 @software:rongda
 @note: 匿名函数
 """  
-c = lambda x:[i for i in x if i%2 == 0 ] # 生成器，就相当于定义了一个函数C
+c = lambda x:[i for i in x if i%2 == 0 ] # 生成器，就相当于定义了一个函数c
 
 print c([1,2,3,4,5])
 
