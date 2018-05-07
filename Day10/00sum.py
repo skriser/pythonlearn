@@ -9,14 +9,11 @@
 """  
 
 
-def convert(str):
-    if not isinstance(str, int):
-        if str.strip().isdigit():
-            return int(str)
-        else:
-            return 0
+def convert(args):
+    if str(args).strip().isdigit():
+        return int(args)
     else:
-        return str
+        return 0
 
 
 def sumData(num1, num2, *args, **kwargs):
