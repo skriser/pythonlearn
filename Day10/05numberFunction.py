@@ -50,9 +50,12 @@ import random
 # print list1
 # random.shuffle(list1)
 # print list1
-flag = True
-while flag:
-    X = random.uniform(-2, 3)
-    if X < 0:
-        flag = False
-        print X
+# flag = True
+# while flag:
+#     X = random.uniform(-2, 3)
+#     if X < 0:
+#         flag = False
+#         print X
+
+print math.pi
+print math.e
