@@ -5,40 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4cdfefb-a589-40a6-a610-ca063287b2d1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day11/Day11Homework/08homework02.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day11/Day11Homework/zip.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day12/04homework_yp.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day12/ll.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day12/myFirst.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day12/savexcel.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/01HtmlLabel.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/02HtmlCss.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/03Offspring.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/04box.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/05float.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/baidushouye.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/bd_logo1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/ewm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/settest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/交集选择器.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day13/并集选择器.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14/01except.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14/02judgeNuber.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14/03judgefinally.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14/04assert.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14Test/01for.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14Test/02list.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14Test/03PrimeNumber.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14Test/04defunction.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14Test/05defunction02.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14Test/06rabbit.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14Test/07while.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day14Test/08dictsum.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day16/mysql.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Day11/Day11Homework/10appendsheet.py" afterPath="$PROJECT_DIR$/Day11/Day11Homework/10appendsheet.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -437,6 +404,14 @@
       <option name="presentableId" value="Default" />
       <updated>1524463499360</updated>
     </task>
+    <task id="LOCAL-00001" summary="day16">
+      <created>1526433020719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526433020719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -504,6 +479,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day16" />
+    <option name="LAST_COMMIT_MESSAGE" value="day16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
