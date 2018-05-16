@@ -12,8 +12,7 @@
 def sum2(nums):
     # map1 = {1:1, 2:1, 3:2, 4:3, 5:5}
     list1 = [1]*nums
-    list1[1] = 1
-    for i in range(0,nums-2):
+    for i in range(0, nums-2):
         list1[i+2] = list1[i]+list1[i+1]
     return list1[nums-1]*2
 
