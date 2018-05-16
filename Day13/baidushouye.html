@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>百度一下，你就知道</title>
+    <style>
+        body{
+            font-size: 12px;
+        }
+        .head{
+            overflow: hidden;
+        }
+        .nav{
+            width: 500px;
+            padding:13px;
+            float: right;
+            /*background: lightblue;*/
+              /*控制box里面的元素 a标签靠右；控制文本标签*/
+            text-align: right;
+        }
+        .nav a{
+            color:#333;
+            /*margin简写方式1，margin一个值是四边
+                               两个值
+             上下，左右*/
+            margin: 0 8px;
+            font-size: 13px;
+            font-weight: 700;
+
+        }
+        .nav button{
+            background: #38f;
+            color: #fff;
+            border: 0;
+        }
+        .middle{
+            /*padding-top: 50px;*/
+            text-align: center;
+        }
+        .middle img{
+            margin-top: 1px;
+            width: 270px;
+            height: 130px;
+        }
+        .search{
+            margin-top: 21px;
+            text-align: center;
+        }
+        .text{
+            width: 540px;
+            height: 35px;
+            /* vertical-align：行内元素之间对齐的方式*/
+            vertical-align: middle;
+        }
+        .submit{
+            height: 41px;
+            width: 100px;
+            background:#3385ff;
+            color: white;
+            font-size: 15px;
+            border-bottom:1px solid #2d78f4;
+            vertical-align: middle;
+            border: 0;
+            padding: 0;
+        }
+        .footer{
+            margin-top: 260px;
+            text-align: center;
+            color: #999;
+        }
+        .footer img{
+            width: 60px;
+        }
+        .footer p img{
+            width: 14px;
+            height: 17px;
+        }
+        .footer a{
+            color: #999;
+        }
+        .footer p{
+            margin: 6px 0;
+        }
+    </style>
+</head>
+<body>
+        <div class="head">
+            <div class="nav">
+                <a href="" class="#">新闻</a>
+                <a href="" class="#">hao123</a>
+                <a href="" class="#">地图</a>
+                <a href="" class="#">视频</a>
+                <a href="" class="#">贴吧</a>
+                <a href="" class="#">学术</a>
+                <a href="" class="#">登录</a>
+                <a href="" class="#">设置</a>
+                <button>更多产品</button>
+            </div>
+        </div>
+        <div class="middle">
+            <img src="bd_logo1.png" alt="">
+        </div>
+        <div class="search">
+            <input class="text" type="text"><input class="submit" type="submit" value="百度一下">
+        </div>
+    <div class="footer">
+        <img src="ewm.png" alt="" class="">
+        <br/>
+        <span>大帝</span>
+        <br/>
+        <br/>
+        <p>
+            <a href="#">把百度设为主页</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#">关于百度</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#">About Baidu</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#">百度推广</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </p>
+        <p>
+            <span>©2018 Baidu</span>
+            <a href="#">使用百度前必读</a>
+            <a href="#">意见反馈</a>
+            <span>京ICP证030173号</span>
+            <img src="3.jpg" alt="">&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#">京公网安备11000002000001号</a>
+            <img src="4.jpg" alt="">
+        </p>
+    </div>
+</body>
+</html>

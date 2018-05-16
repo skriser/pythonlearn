@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS选择器</title>
+    <style>
+        body{
+            background-color: pink;
+        }
+        .div1{
+            /*类选择器，通过类名（.classname）进行选择属性设置，类名*/
+            width: 400px;
+            height: 300px;
+            background-color: antiquewhite;/*background:是简写包含很多属性，background-color:是只定义背景颜色*/
+        }
+        /*#one{*/
+            /*border: 20px solid brown;*/
+        /*}*/
+         .div2{
+            margin: auto;
+            width: 400px;
+            height: 400px;
+            border: 2px solid black;
+            text-align: center;
+            background-color: burlywood;
+        }
+        div{
+            /*标签选择器，直接通过标签名进行设置属性*/
+            border: 5px solid blue;
+        }
+        .p1{
+            background-color: darkred;
+            color: white;
+        }
+        .p2{
+            color: blue;
+        }
+        #span1{
+            /* #是id选择器，通过id="xx" 来进行选择*/
+            font-size: 20px;
+            font-family: '华文彩云';
+        }
+    </style>
+</head>
+<body>
+    <!--div.divx-->
+    <div class="divx"></div>
+    <!--div.div2#divid :快捷键，自动生成class为div2，id为divid的div标签-->
+    <div class="divx" id="divid"></div>
+    <div class="div1">
+        111111
+    </div>
+    <div>
+        222222
+    </div>
+
+    <div class="div2">
+        <h2>山村咏怀</h2>
+        <p>邵雍</p>
+        <p class="p1">一去<strong>二</strong>三里</p>
+        <p class="p2">烟村四五家</p>
+        <p class="p1">亭台<span id="span1">六</span>七座</p>
+        <!--<span>一般就用写文件用的</span>-->
+        <p class="p2">八九十枝花</p>
+    </div>
+    <!--div.div$*3-->
+    <div class="div1"></div>
+    <div class="div2"></div>
+    <div class="div3"></div>
+    <!--div.div{$}*3: $中间加上内容-->
+    <div class="div">1</div>
+    <div class="div">2</div>
+    <div class="div">3</div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>交集选择器</title>
+    <style>
+        .div1 .haha{
+            color: red;}
+        .div1.haha{color: blue}
+        /*不带空格的是交集选择器*/
+        .div1#haha{color: orange}
+        p .haha{color: aqua}
+        p.haha{
+            color: darkred;}
+
+    </style>
+</head>
+<body>
+    <!--div.div1.haha.hehe-->
+    <div class="div1">
+        <span class="haha">-9</span>
+    </div>
+    <div class="div1 haha hehe">0000</div>
+    <div class="div1 haha">123</div>
+    <div class="div1" id="haha">456</div>
+    <div>789</div>
+    <p class="haha">101112</p>
+    <p class="p"></p>
+    <p class="p"><span class="hah"></span></p>
+</body>
+</html>

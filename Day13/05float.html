@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>浮动居中</title>
+    <style>
+        ul{
+            border: 5px solid red;
+            /*overflow:清除子元素对浮动的影响的方式*/
+            overflow: hidden;
+        }
+        li{
+            width: 100px;
+            background: cyan;
+            /*float 作用是浮动，浮起来了，本来ul是根据内容来定的，没有浮动的时候，浮动了之后ul就相当于没有内容了，就会变了
+            */
+            /*每个HTML标签都是一个盒子*/
+            float: left;
+
+        }
+        div{
+            border: 1px solid black;
+            height: 300px;
+
+            float: left;
+        }
+        .div1{
+            background: red;
+            width: 33%;
+            text-align: center;
+        }
+        .div2{
+            background: green;
+            width: 33%;
+        }
+        .div3{
+            background: blue;
+            width: 33.5%;
+        }
+    </style>
+</head>
+<body>
+<ul>
+    <li>000001</li>
+    <li>000002</li>
+    <li>000003</li>
+    <li>000004</li>
+    <li>000005</li>
+    <li>000006</li>
+    <li>000007</li>
+    <li>000008</li>
+</ul>
+<div class="div1"></div>
+<div class="div2"></div>
+<div class="div3"></div>
+</body>
+</html>

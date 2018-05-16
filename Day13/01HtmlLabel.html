@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>常用标签</title>
+
+    <style>
+        body{
+            background-color: #7eff9d;
+        }
+        .chinese{
+            color: red;
+        }
+        table{
+            border: 3px solid red;
+            border-collapse: collapse;
+        }
+        thead{
+            background: cyan;
+        }
+        tbody{
+            background: orange;
+        }
+        tfoot{
+            background: pink;
+        }
+    </style>
+
+</head>
+<body>
+<!--ul>li{$}*4:无序列表-->
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+    </ul>
+    <!--ol>li{$}*4:有序列表-->
+    <ol>
+        <li>a</li>
+        <li>b</li>
+        <li>c</li>
+        <li>d</li>
+    </ol>
+    <!--表格：table-->
+    <table border="1">
+        <!--<tr>一行一个'tr'</tr>-->
+        每个标签都是一个对象
+        <tr>
+            <th class="chinese">语文</th>
+            <th>数学</th>
+            <th>英语</th>
+        </tr>
+        <tr>
+            <td>50</td>
+            <td>80</td>
+            <td>100</td>
+        </tr>
+    </table>
+    完整结构的表格:
+    <table border="1">
+        <thead>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+        </thead>
+        <tbody>
+             <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+             <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+             <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+             <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+        </tfoot>
+    </table>
+
+</body>
+</html>

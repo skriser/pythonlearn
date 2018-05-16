@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>box</title>
+    <style>
+        html{
+            /*文档流默认排布，从上到下，从左到右*/
+            /*html:和body里面*/
+            /*body默认外边距的margin为8;body没有默认内边距*/
+            margin:0;
+            background-color: burlywood;
+        }
+        .div1{
+            width: 300px;
+            height: 300px;
+            background-color: orange;
+            /*外边距：margin,控制对外的距离，box默认占据一行，一般靠左，这个就是右边很大的原因*/
+            margin: 50px;
+            /*内边距：padding，内容距离边框的距离；内边距的颜色和框的颜色保持一致*/
+            padding: 50px;
+            /*控制每一个方向可以用下面的*/
+            /*冲突控制颜色的话，谁的在后面执行用谁的，就像画画，后面涂色的会把前面的覆盖掉*/
+            padding-left: 50px;
+            border-left: 10px;
+            border: 1px solid black;
+            border-left-style: solid;
+        }
+        .div2{
+            width: 500px;
+            height: 200px;
+            background: orangered;
+            /*在设置了内边距，上下左右的大小都增加了20px;这样宽高都增加了*/
+            padding: 20px;
+
+        }
+        .div3{
+            width: 50px;
+            height: 50px;
+            background: black;
+            margin: 50px;
+        }
+        .div4{
+            width: 20px;
+            height: 20px;
+            background: orange;
+            margin-top: 30px;
+        }
+        /*上下之间当两个盒子的外边距重合的时候：谁大听谁的；左右的话要相加*/
+    </style>
+</head>
+<body>
+        <!--块级元素：默认在他的容器里面占一行，默认换行：包括：div p h1-6 ul li-->
+        <!--行内元素：默认在一行里面：span ,input，em ,a img这些文字类的-->
+        <!--爬虫优先找的是行内元素-->
+    <div class="div1">
+        百度一下
+    </div>
+    <div class="div2">
+        <div class="div3"> </div>
+        <div class="div4"></div>
+    </div>
+
+</body>
+</html>

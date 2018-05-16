@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>后代选择器</title>
+    <style>
+        .div1 span{
+            /*先用类选择器选到div1的，然后加上空格加上span ，这个是先从父类选择再选择子类
+               这个就是后代选择器
+            */
+            color: #ff0000;
+        }
+        .div2 span{
+            color: blue;
+        }
+        .p1 .span1{
+
+        }
+
+    </style>
+</head>
+<body>
+    <!--div.div$*3>span-->
+    <div class="div1"><span>天枢</span></div>
+    <div class="div2"><span>地师</span></div>
+    <div class="div3"><span>人欲</span></div>
+    <p class="p1"><span class="span1">鬼股</span></p>
+    <!--他的子类选择器一般使用类选择进行，这样对特定的进行处理。不会影响到其他的P-->
+
+</body>
+</html>
