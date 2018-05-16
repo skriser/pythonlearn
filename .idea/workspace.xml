@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a4cdfefb-a589-40a6-a610-ca063287b2d1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Day06/09Test.py" afterPath="$PROJECT_DIR$/Day06/09Test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -198,8 +199,8 @@
         <option value="$PROJECT_DIR$/Day14/04assert.py" />
         <option value="$PROJECT_DIR$/Day16.py" />
         <option value="$PROJECT_DIR$/Day16/mysql.py" />
-        <option value="$PROJECT_DIR$/Day06/09Test.py" />
         <option value="$PROJECT_DIR$/Day14Test/06rabbit.py" />
+        <option value="$PROJECT_DIR$/Day06/09Test.py" />
       </list>
     </option>
   </component>
@@ -239,6 +240,16 @@
             <path>
               <item name="rongda" type="b2602c69:ProjectViewProjectNode" />
               <item name="rongda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rongda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rongda" type="462c0819:PsiDirectoryNode" />
+              <item name="Day06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rongda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rongda" type="462c0819:PsiDirectoryNode" />
+              <item name="Day07" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -411,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526433020719</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day16">
+      <created>1526433036702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526433036702</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -755,23 +773,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day07/09test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day07/必备参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day07/functionTEST.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -783,14 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-409">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day06/09Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="105" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -844,6 +838,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day09/day8homework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day07/functionTEST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/09Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="103" column="27" lean-forward="false" selection-start-line="103" selection-start-column="27" selection-end-line="103" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day07/09test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />

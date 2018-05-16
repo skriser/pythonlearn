@@ -92,18 +92,17 @@ print 2**27*8 > 884813000
 # 7.有一个列表，其中包括10个元素，例如 [1,2,3,4,5,6,7,8,9,0]要求将列表中的每个元素依次向前移动一个位置，将第一个元素到列表
 # # 的最后，然后输出这个列表。最终的样式是[2,3,4,5,6,7,8,9,0,1]
 list1 = range(10)
-print list1
+print(list1)
 list1.append(list1.pop(0))
-print list1
+print(list1)
 
 # 8.第一个月初有一对刚诞生的兔子，第二个月后（第三个月初）他们可以生育。每月每对可生育的兔子会诞生下一对新兔子，兔子永不死去；
 # 求第21个月兔子的数量
 dict1 = {1: 1, 2: 1, 3: 2, 4: 3, 5: 5, 6: 8}
 list1 = [1]*25
-list1[0] = 1
 for i in range(1, 20):
     list1[i+1] = list1[i] + list1[i-1]
-print list1
+print(list1)
 
 # 判断条件时候用while，进行预测迭代的时候用for循环
 
@@ -111,6 +110,6 @@ a = 1
 b = 0
 for i in range(21):
     a, b = b, a+b
-print b
+print(b)
 
-print 24*179
+print(24 * 179)
