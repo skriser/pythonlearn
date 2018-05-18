@@ -1,0 +1,25 @@
+-- 1.创建数据库 shop
+-- 2.进入到shop数据库
+-- 3.创建商品种类表	commoditytype
+-- 4.创建商品表		commodity
+
+create database shop ;
+use shop;
+drop table shop.commodity;
+drop table shop.commoditytype
+create table shop.commoditytype(
+ct_id int(11) PRIMARY key comment '商品种类编号，主键 ',
+ct_name varchar(50) not null UNIQUE comment '商品种类名称非'
+)charset=utf8; 
+
+create table shop.commodity(
+c_id int(11) PRIMARY key comment '商品编号，主键  ',
+c_name varchar(50) not null comment '商品名称，非空 ',
+c_madein varchar(50) not null comment '商品产地，非空  ',
+c_type varchar(50) not null comment '商品种类，外键 ',
+c_inprice int(11) not null comment '商品进价，非空 ',
+c_outprice int(11)  comment '商品售价 ',
+c_num int(11) DEFAULT 100 comment '商品库存，默认100',
+FOREIGN KEY(c_type) REFERENCES shop.commoditytype(ct_name)
+)charset=utf8; 
+-- 作为外键的另一个表中需要有唯一性约束
