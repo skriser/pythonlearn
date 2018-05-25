@@ -10,7 +10,7 @@
 import csv
 
 # 1. 打开文件，如果不存在就新建一个
-with open('csvExample/CSVTest.csv', 'w') as filew:
+with open('csvExample/CSVTest.csv', 'w+') as filew:
     # 用变量存储
     writer1 = csv.writer(filew)
     # row 行,写一行信息
