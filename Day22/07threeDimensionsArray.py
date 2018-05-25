@@ -31,6 +31,6 @@ heros = np.array([
 # print(heros[0])
 # print(heros[1])
 # 获取 ['公孙离' '大乔' '刘禅']
-print(heros[:, 1, 1])
+# print(heros[:, 1, 1])
 # 获取第二层的数
-print()
+print(heros[...,2])
