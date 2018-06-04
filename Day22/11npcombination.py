@@ -34,7 +34,21 @@ print("******************result_hstack*************************")
 result_colstack = np.column_stack((arr2, arr1))
 print(result_colstack)
 print("******************result_colstack*************************")
-# row_stack 按行拼接数组，行增加，列不变，和vstack结果一样
+# row_stack 按行拼接数组，行增加，列名   不变，和vstack结果一样
 result_rowstack = np.row_stack((arr2, arr1))
 print(result_rowstack)
 print("******************result_rowstack*************************")
+# concatenate();axis值控制是行合并还是列合并
+m1 = np.arange(9).reshape(3, 3)
+m2 = m1*2
+result_concatenate = np.concatenate((m1, m2),axis=1)
+print(result_concatenate)
+print("******************result_concatenate*************************")
+clomn_stack = np.column_stack((m1, m2))
+hstact_ = np.hstack((m1, m2))
+result_concatenate1 = np.concatenate((m1, m2), axis= 1)
+# 深度合并dstack();将两个数组每个都展成一列垂直；每层行数取决于开始的拼接对象的行数
+d_stack = np.dstack((m1, m2, arr2))
+print(d_stack)
+print("d_stack.shape:",d_stack.shape)
+print("******************d_stack*************************")
