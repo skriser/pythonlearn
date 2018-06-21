@@ -5,52 +5,45 @@
     <bookmark url="file://$PROJECT_DIR$/Day26/计算偏度和峰度.py" line="13" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4cdfefb-a589-40a6-a610-ca063287b2d1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day22/homework.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/01splitarr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/data.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/homework.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/numpystatistics.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/保存数据.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/加载数据.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/数组的属性.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/日期的格式化.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/统计分析-筛选.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/统计分析-股票波动率.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/统计分析.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day23/统计分析2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day24/00nsq.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day24/homework.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day24/二元运算符.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day24/创建随机数组.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day24/搜索函数.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day24/数组的排序方法.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day24/方程组求解.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day24/求矩阵的特征向量特征值.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day24/矩阵求逆运算.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day24/矩阵的行列式.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day24/矩阵的运算.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day25/testscipy.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day25/zgpa001.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day25/数组元素的抽取.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day25/金融计算has.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day26/homework-reaseaonactiion.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day26/样本点百分比位置.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day26/检测数据样本的拟合程度.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day26/计算偏度和峰度.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day27/order.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day27/test1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day27/test2-2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day27/test2-3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day27/test2-4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day27/test2-5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day27/test2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day27/test3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day27/test4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day27/test5.py" />
+    <list default="true" id="a4cdfefb-a589-40a6-a610-ca063287b2d1" name="Default" comment="day16">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day28/01baidu.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day28/02baidui.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day28/04try.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day28/04trya.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day28/baidupy27.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day28/gethtml.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day28/homework.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day28/regexpresion.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day28/useragent2spider.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day29/51job.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day29/defhanshu.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day29/getHtml.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day29/homework_51job.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day29/homework_tiammao.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day29/regexp.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day29/requestslearn.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/00requestbs4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/01requestjob.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/51job4bs4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/beautiful.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/beautifulsoupLearn.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/douban_film.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/getimagesrc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/homeworkimg.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/homeworkproxy.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/imgtemplate.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/regx.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day30/加密解密.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day31/scrapyLearning.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day33/sympy学习导数.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Others/decisiontree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Others/horseColicTest.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Others/horseColicTraining.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Others/logRegres.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Others/testSet.txt" />
+      <change beforePath="$PROJECT_DIR$/.idea/rongda.iml" afterPath="$PROJECT_DIR$/.idea/rongda.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Day22/11npcombination.py" afterPath="$PROJECT_DIR$/Day22/11npcombination.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,13 +55,15 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/rongda$10nptranspose.coverage" NAME="10nptranspose Coverage Results" MODIFIED="1527239446003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day22" />
     <SUITE FILE_PATH="coverage/rongda$01function.coverage" NAME="01function Coverage Results" MODIFIED="1525317958932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
-    <SUITE FILE_PATH="coverage/rongda$.coverage" NAME="保存数据 Coverage Results" MODIFIED="1527850320307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day23" />
+    <SUITE FILE_PATH="coverage/rongda$.coverage" NAME="加密解密 Coverage Results" MODIFIED="1528251947235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day30" />
     <SUITE FILE_PATH="coverage/rongda$04DecoratorLogin.coverage" NAME="04DecoratorLogin Coverage Results" MODIFIED="1525584628533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
     <SUITE FILE_PATH="coverage/rongda$09PublicVSPrivate.coverage" NAME="09PublicVSPrivate Coverage Results" MODIFIED="1525591748038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
     <SUITE FILE_PATH="coverage/rongda$06if.coverage" NAME="06if Coverage Results" MODIFIED="1524729442651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
     <SUITE FILE_PATH="coverage/rongda$04xlrd.coverage" NAME="04xlrd Coverage Results" MODIFIED="1525834743414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11/Day11Homework" />
+    <SUITE FILE_PATH="coverage/rongda$02baidui.coverage" NAME="02baidui Coverage Results" MODIFIED="1528084130085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day28" />
     <SUITE FILE_PATH="coverage/rongda$04SetRange.coverage" NAME="04SetRange Coverage Results" MODIFIED="1524720604378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
     <SUITE FILE_PATH="coverage/rongda$ss.coverage" NAME="ss Coverage Results" MODIFIED="1527129870592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day21/exam/one" />
+    <SUITE FILE_PATH="coverage/rongda$defhanshu.coverage" NAME="defhanshu Coverage Results" MODIFIED="1528187848756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day29" />
     <SUITE FILE_PATH="coverage/rongda$02Print.coverage" NAME="02Print Coverage Results" MODIFIED="1524539533110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
     <SUITE FILE_PATH="coverage/rongda$07Excel.coverage" NAME="07Excel Coverage Results" MODIFIED="1525768981621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11/excelExample" />
     <SUITE FILE_PATH="coverage/rongda$01testLearn.coverage" NAME="01testLearn Coverage Results" MODIFIED="1524808010864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
@@ -80,6 +75,7 @@
     <SUITE FILE_PATH="coverage/rongda$00pymongo.coverage" NAME="00pymongo Coverage Results" MODIFIED="1526957430907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day20" />
     <SUITE FILE_PATH="coverage/rongda$03judgefinally.coverage" NAME="03judgefinally Coverage Results" MODIFIED="1526196552181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14" />
     <SUITE FILE_PATH="coverage/rongda$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1528031013063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day27" />
+    <SUITE FILE_PATH="coverage/rongda$sympy.coverage" NAME="sympy学习导数 Coverage Results" MODIFIED="1528783141210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day33" />
     <SUITE FILE_PATH="coverage/rongda$02Set.coverage" NAME="02Set Coverage Results" MODIFIED="1524729840904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
     <SUITE FILE_PATH="coverage/rongda$numpyindex.coverage" NAME="numpyindex Coverage Results" MODIFIED="1527233398301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day22" />
     <SUITE FILE_PATH="coverage/rongda$2.coverage" NAME="统计分析2 Coverage Results" MODIFIED="1527490279191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day23" />
@@ -89,16 +85,23 @@
     <SUITE FILE_PATH="coverage/rongda$05sort.coverage" NAME="05sort Coverage Results" MODIFIED="1525413941675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/rongda$03PrimeNumber.coverage" NAME="03PrimeNumber Coverage Results" MODIFIED="1526182114265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14Test" />
     <SUITE FILE_PATH="coverage/rongda$06homework.coverage" NAME="06homework Coverage Results" MODIFIED="1525687691373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
+    <SUITE FILE_PATH="coverage/rongda$beautifulsoupLearn.coverage" NAME="beautifulsoupLearn Coverage Results" MODIFIED="1528269413721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day30" />
+    <SUITE FILE_PATH="coverage/rongda$baidupy27.coverage" NAME="baidupy27 Coverage Results" MODIFIED="1528090956051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day28" />
     <SUITE FILE_PATH="coverage/rongda$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1528032102231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day27" />
     <SUITE FILE_PATH="coverage/rongda$ll.coverage" NAME="ll Coverage Results" MODIFIED="1525920440066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day12" />
+    <SUITE FILE_PATH="coverage/rongda$51job.coverage" NAME="51job Coverage Results" MODIFIED="1528180128075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day29" />
     <SUITE FILE_PATH="coverage/rongda$functionTEST.coverage" NAME="functionTEST Coverage Results" MODIFIED="1525326859392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
     <SUITE FILE_PATH="coverage/rongda$day09homework02.coverage" NAME="day09homework02 Coverage Results" MODIFIED="1525596516886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
     <SUITE FILE_PATH="coverage/rongda$05defunction02.coverage" NAME="05defunction02 Coverage Results" MODIFIED="1526182298178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14Test" />
     <SUITE FILE_PATH="coverage/rongda$python_misstake.coverage" NAME="python_misstake Coverage Results" MODIFIED="1524493930231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
     <SUITE FILE_PATH="coverage/rongda$03raw_input.coverage" NAME="03raw_input Coverage Results" MODIFIED="1524540300537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
+    <SUITE FILE_PATH="coverage/rongda$requestslearn.coverage" NAME="requestslearn Coverage Results" MODIFIED="1528190549126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day29" />
+    <SUITE FILE_PATH="coverage/rongda$00requestbs4.coverage" NAME="00requestbs4 Coverage Results" MODIFIED="1528248998141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day30" />
     <SUITE FILE_PATH="coverage/rongda$08continuedemo.coverage" NAME="08continuedemo Coverage Results" MODIFIED="1525243856964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day06" />
+    <SUITE FILE_PATH="coverage/rongda$regexpresion.coverage" NAME="regexpresion Coverage Results" MODIFIED="1528102838640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day28" />
     <SUITE FILE_PATH="coverage/rongda$csvrandom.coverage" NAME="csvrandom Coverage Results" MODIFIED="1525832538649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
     <SUITE FILE_PATH="coverage/rongda$02list.coverage" NAME="02list Coverage Results" MODIFIED="1526182060115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14Test" />
+    <SUITE FILE_PATH="coverage/rongda$getimagesrc.coverage" NAME="getimagesrc Coverage Results" MODIFIED="1528257022311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day30" />
     <SUITE FILE_PATH="coverage/rongda$04defunction.coverage" NAME="04defunction Coverage Results" MODIFIED="1526182226867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14Test" />
     <SUITE FILE_PATH="coverage/rongda$03inheritInitTest.coverage" NAME="03inheritInitTest Coverage Results" MODIFIED="1525674952712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/rongda$04Zip.coverage" NAME="04Zip Coverage Results" MODIFIED="1524894063301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day05" />
@@ -106,6 +109,7 @@
     <SUITE FILE_PATH="coverage/rongda$01while__1_.coverage" NAME="01while (1) Coverage Results" MODIFIED="1524878721344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day05" />
     <SUITE FILE_PATH="coverage/rongda$03forLearning.coverage" NAME="03forLearning Coverage Results" MODIFIED="1525230887746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day06" />
     <SUITE FILE_PATH="coverage/rongda$02lambda.coverage" NAME="02lambda Coverage Results" MODIFIED="1525403891873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/rongda$decisiontree.coverage" NAME="decisiontree Coverage Results" MODIFIED="1529402166798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
     <SUITE FILE_PATH="coverage/rongda$00range.coverage" NAME="00range Coverage Results" MODIFIED="1525311074660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
     <SUITE FILE_PATH="coverage/rongda$test2_2.coverage" NAME="test2-2 Coverage Results" MODIFIED="1527837339169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day27" />
     <SUITE FILE_PATH="coverage/rongda$Variable.coverage" NAME="Variable Coverage Results" MODIFIED="1524470261573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
@@ -113,6 +117,7 @@
     <SUITE FILE_PATH="coverage/rongda$02multiInherit.coverage" NAME="02multiInherit Coverage Results" MODIFIED="1525672251782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/rongda$job.coverage" NAME="job Coverage Results" MODIFIED="1526550776548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day18" />
     <SUITE FILE_PATH="coverage/rongda$mongoutils.coverage" NAME="mongoutils Coverage Results" MODIFIED="1526959180027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day20" />
+    <SUITE FILE_PATH="coverage/rongda$beautiful.coverage" NAME="beautiful Coverage Results" MODIFIED="1528256585507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day30" />
     <SUITE FILE_PATH="coverage/rongda$09Xlutils.coverage" NAME="09Xlutils Coverage Results" MODIFIED="1525772241760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
     <SUITE FILE_PATH="coverage/rongda$dict.coverage" NAME="dict Coverage Results" MODIFIED="1524710792554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
     <SUITE FILE_PATH="coverage/rongda$02csvreaderwriter.coverage" NAME="02csvreaderwriter Coverage Results" MODIFIED="1525833364305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11/Day11Homework" />
@@ -129,6 +134,7 @@
     <SUITE FILE_PATH="coverage/rongda$Hello_World.coverage" NAME="Hello World Coverage Results" MODIFIED="1524465128142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
     <SUITE FILE_PATH="coverage/rongda$01List.coverage" NAME="01List Coverage Results" MODIFIED="1525747977661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
     <SUITE FILE_PATH="coverage/rongda$zip.coverage" NAME="zip Coverage Results" MODIFIED="1525916573759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11/Day11Homework" />
+    <SUITE FILE_PATH="coverage/rongda$homeworkimg.coverage" NAME="homeworkimg Coverage Results" MODIFIED="1528376408555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day30" />
     <SUITE FILE_PATH="coverage/rongda$08test.coverage" NAME="08test Coverage Results" MODIFIED="1527236145490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day22" />
     <SUITE FILE_PATH="coverage/rongda$04List.coverage" NAME="04List Coverage Results" MODIFIED="1524549161235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
     <SUITE FILE_PATH="coverage/rongda$09Test.coverage" NAME="09Test Coverage Results" MODIFIED="1525314569710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day06" />
@@ -136,9 +142,12 @@
     <SUITE FILE_PATH="coverage/rongda$00sum.coverage" NAME="00sum Coverage Results" MODIFIED="1525687859773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/rongda$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1527835294071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day27" />
     <SUITE FILE_PATH="coverage/rongda$TestSUM.coverage" NAME="TestSUM Coverage Results" MODIFIED="1525658664685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/人工智能" />
+    <SUITE FILE_PATH="coverage/rongda$douban_film.coverage" NAME="douban_film Coverage Results" MODIFIED="1528275610830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day30" />
     <SUITE FILE_PATH="coverage/rongda$pyfilesave.coverage" NAME="pyfilesave Coverage Results" MODIFIED="1526549079347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day18" />
     <SUITE FILE_PATH="coverage/rongda$test2_4.coverage" NAME="test2-4 Coverage Results" MODIFIED="1527846992227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day27" />
     <SUITE FILE_PATH="coverage/rongda$04homework_yp.coverage" NAME="04homework_yp Coverage Results" MODIFIED="1525922100958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day12" />
+    <SUITE FILE_PATH="coverage/rongda$01baidu.coverage" NAME="01baidu Coverage Results" MODIFIED="1528083232597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day28" />
+    <SUITE FILE_PATH="coverage/rongda$04try.coverage" NAME="04try Coverage Results" MODIFIED="1528093468373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day28" />
     <SUITE FILE_PATH="coverage/rongda$07closure.coverage" NAME="07closure Coverage Results" MODIFIED="1525415923619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/rongda$08ExcelWriter.coverage" NAME="08ExcelWriter Coverage Results" MODIFIED="1525770923962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11/excelExample" />
     <SUITE FILE_PATH="coverage/rongda$03connTest.coverage" NAME="03connTest Coverage Results" MODIFIED="1526452296597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day17" />
@@ -146,21 +155,26 @@
     <SUITE FILE_PATH="coverage/rongda$pymongoquery01.coverage" NAME="pymongoquery01 Coverage Results" MODIFIED="1526957988280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day20" />
     <SUITE FILE_PATH="coverage/rongda$07sum.coverage" NAME="07sum Coverage Results" MODIFIED="1525330212708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
     <SUITE FILE_PATH="coverage/rongda$unexpect.coverage" NAME="unexpect Coverage Results" MODIFIED="1526191824469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14" />
+    <SUITE FILE_PATH="coverage/rongda$regx.coverage" NAME="regx Coverage Results" MODIFIED="1528273191138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day30" />
     <SUITE FILE_PATH="coverage/rongda$05Operator.coverage" NAME="05Operator Coverage Results" MODIFIED="1524725015798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
     <SUITE FILE_PATH="coverage/rongda$has.coverage" NAME="金融计算has Coverage Results" MODIFIED="1527659600162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day25" />
     <SUITE FILE_PATH="coverage/rongda$06demofor.coverage" NAME="06demofor Coverage Results" MODIFIED="1525308773357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day06" />
     <SUITE FILE_PATH="coverage/rongda$05Tuple.coverage" NAME="05Tuple Coverage Results" MODIFIED="1524552776839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
+    <SUITE FILE_PATH="coverage/rongda$homework_51job.coverage" NAME="homework_51job Coverage Results" MODIFIED="1528200291811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day29" />
+    <SUITE FILE_PATH="coverage/rongda$51job4bs4.coverage" NAME="51job4bs4 Coverage Results" MODIFIED="1528267474696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day30" />
     <SUITE FILE_PATH="coverage/rongda$04string.coverage" NAME="04string Coverage Results" MODIFIED="1525679293225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/rongda$except.coverage" NAME="except Coverage Results" MODIFIED="1526192374164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14" />
     <SUITE FILE_PATH="coverage/rongda$00in.coverage" NAME="00in Coverage Results" MODIFIED="1525742646202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
     <SUITE FILE_PATH="coverage/rongda$04csv.coverage" NAME="04csv Coverage Results" MODIFIED="1525760222020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
     <SUITE FILE_PATH="coverage/rongda$06excelReaderWriter.coverage" NAME="06excelReaderWriter Coverage Results" MODIFIED="1525836913711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11/Day11Homework" />
+    <SUITE FILE_PATH="coverage/rongda$04trya.coverage" NAME="04trya Coverage Results" MODIFIED="1528097043089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day28" />
     <SUITE FILE_PATH="coverage/rongda$08homework02.coverage" NAME="08homework02 Coverage Results" MODIFIED="1525915839242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11/Day11Homework" />
     <SUITE FILE_PATH="coverage/rongda$testscipy.coverage" NAME="testscipy Coverage Results" MODIFIED="1527668100320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day25" />
     <SUITE FILE_PATH="coverage/rongda$02while_list.coverage" NAME="02while_list Coverage Results" MODIFIED="1524884562492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day05" />
     <SUITE FILE_PATH="coverage/rongda$print.coverage" NAME="print Coverage Results" MODIFIED="1525231047027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day05" />
     <SUITE FILE_PATH="coverage/rongda$01inherit.coverage" NAME="01inherit Coverage Results" MODIFIED="1525670954625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/rongda$04transtordata.coverage" NAME="04transtordata Coverage Results" MODIFIED="1527229108674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day22" />
+    <SUITE FILE_PATH="coverage/rongda$homework_tiammao.coverage" NAME="homework_tiammao Coverage Results" MODIFIED="1528196884086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day29" />
     <SUITE FILE_PATH="coverage/rongda$03forcycle.coverage" NAME="03forcycle Coverage Results" MODIFIED="1524893193573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day05" />
     <SUITE FILE_PATH="coverage/rongda$test2_3.coverage" NAME="test2-3 Coverage Results" MODIFIED="1527838461061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day27" />
     <SUITE FILE_PATH="coverage/rongda$test.coverage" NAME="test Coverage Results" MODIFIED="1527500055981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day23" />
@@ -180,10 +194,12 @@
     <SUITE FILE_PATH="coverage/rongda$00nsq.coverage" NAME="00nsq Coverage Results" MODIFIED="1527561283344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day24" />
     <SUITE FILE_PATH="coverage/rongda$homework_reaseaonactiion.coverage" NAME="homework-reaseaonactiion Coverage Results" MODIFIED="1527751634287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day26" />
     <SUITE FILE_PATH="coverage/rongda$mysqlquerypaging.coverage" NAME="mysqlquerypaging Coverage Results" MODIFIED="1526632917762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day18" />
-    <SUITE FILE_PATH="coverage/rongda$homework.coverage" NAME="homework Coverage Results" MODIFIED="1527587822089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day24" />
+    <SUITE FILE_PATH="coverage/rongda$homework.coverage" NAME="homework Coverage Results" MODIFIED="1528194328091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day29" />
     <SUITE FILE_PATH="coverage/rongda$02judgeNuber.coverage" NAME="02judgeNuber Coverage Results" MODIFIED="1526195910125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14" />
+    <SUITE FILE_PATH="coverage/rongda$regexp.coverage" NAME="regexp Coverage Results" MODIFIED="1528166462721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day29" />
     <SUITE FILE_PATH="coverage/rongda$01while.coverage" NAME="01while Coverage Results" MODIFIED="1524803530653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day04" />
     <SUITE FILE_PATH="coverage/rongda$07while.coverage" NAME="07while Coverage Results" MODIFIED="1526182802611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14Test" />
+    <SUITE FILE_PATH="coverage/rongda$scrapyLearning.coverage" NAME="scrapyLearning Coverage Results" MODIFIED="1528436557878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day31" />
     <SUITE FILE_PATH="coverage/rongda$06CreateClass.coverage" NAME="06CreateClass Coverage Results" MODIFIED="1525586418963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
     <SUITE FILE_PATH="coverage/rongda$01IteratorDict.coverage" NAME="01IteratorDict Coverage Results" MODIFIED="1525224150871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day06" />
     <SUITE FILE_PATH="coverage/rongda$createspacilarray.coverage" NAME="createspacilarray Coverage Results" MODIFIED="1527227496224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day22" />
@@ -192,6 +208,7 @@
     <SUITE FILE_PATH="coverage/rongda$07passContinueBreak.coverage" NAME="07passContinueBreak Coverage Results" MODIFIED="1525240226938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day06" />
     <SUITE FILE_PATH="coverage/rongda$05xlwt.coverage" NAME="05xlwt Coverage Results" MODIFIED="1525836230314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11/Day11Homework" />
     <SUITE FILE_PATH="coverage/rongda$00numpy.coverage" NAME="00numpy Coverage Results" MODIFIED="1527216673927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day22" />
+    <SUITE FILE_PATH="coverage/rongda$01_tianmao.coverage" NAME="01.tianmao Coverage Results" MODIFIED="1528169197110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day29" />
     <SUITE FILE_PATH="coverage/rongda$mysqlmodify.coverage" NAME="mysqlmodify Coverage Results" MODIFIED="1526456883552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day17" />
     <SUITE FILE_PATH="coverage/rongda$11npcombination.coverage" NAME="11npcombination Coverage Results" MODIFIED="1527471529635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day22" />
     <SUITE FILE_PATH="coverage/rongda$HomeWork.coverage" NAME="HomeWork Coverage Results" MODIFIED="1524729804366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
@@ -206,6 +223,7 @@
     <SUITE FILE_PATH="coverage/rongda$07threeDimensionsArray.coverage" NAME="07threeDimensionsArray Coverage Results" MODIFIED="1527236575316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day22" />
     <SUITE FILE_PATH="coverage/rongda$04multiFor.coverage" NAME="04multiFor Coverage Results" MODIFIED="1525228144691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day06" />
     <SUITE FILE_PATH="coverage/rongda$08CreateClass03.coverage" NAME="08CreateClass03 Coverage Results" MODIFIED="1525590826557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
+    <SUITE FILE_PATH="coverage/rongda$03_51job.coverage" NAME="03.51job Coverage Results" MODIFIED="1528186977600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day29" />
     <SUITE FILE_PATH="coverage/rongda$Day04learn.coverage" NAME="Day04learn Coverage Results" MODIFIED="1524799126611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Others" />
     <SUITE FILE_PATH="coverage/rongda$02dict.coverage" NAME="02dict Coverage Results" MODIFIED="1525751088390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
   </component>
@@ -214,30 +232,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="test5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day27/test5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="40" selection-end-column="69" />
-              <folding>
-                <element signature="e#134#157#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fromnumeric.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/Program Files/Anaconda3/Lib/site-packages/numpy/core/fromnumeric.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49380">
-              <caret line="1657" column="4" lean-forward="false" selection-start-line="1657" selection-start-column="4" selection-end-line="1657" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="计算偏度和峰度.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day26/计算偏度和峰度.py">
+      <file leaf-file-name="numpystatistics.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day23/numpystatistics.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -246,20 +242,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="计算随机样本的峰度.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day25/计算随机样本的峰度.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="1" />
+      <file leaf-file-name="homework.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day23/homework.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="npyio.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/Program Files/Anaconda3/Lib/site-packages/numpy/lib/npyio.py">
+      <file leaf-file-name="01splitarr.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day23/01splitarr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33390">
-              <caret line="1137" column="33" lean-forward="false" selection-start-line="1137" selection-start-column="22" selection-end-line="1137" selection-end-column="33" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -268,48 +265,38 @@
       <file leaf-file-name="保存数据.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day23/保存数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test2-2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day27/test2-2.py">
+      <file leaf-file-name="加载数据.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day23/加载数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test2-3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day27/test2-3.py">
+      <file leaf-file-name="数组的属性.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day23/数组的属性.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            <state relative-caret-position="630">
+              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test2-5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day27/test2-5.py">
+      <file leaf-file-name="logRegres.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Others/logRegres.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="order.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day27/order.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="371">
+              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -330,6 +317,10 @@
     <findStrings>
       <find>e1.showInfo()</find>
       <find>append</find>
+      <find>q</find>
+      <find>quote</find>
+      <find>last</find>
+      <find>find</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -344,44 +335,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day22/04transtordata.py" />
-        <option value="$PROJECT_DIR$/Day22/05definedatastructure.py" />
-        <option value="$PROJECT_DIR$/Day22/numpyindex.py" />
-        <option value="$PROJECT_DIR$/Day22/02createtwod.py" />
-        <option value="$PROJECT_DIR$/Day22/threeDimensionsArray.py" />
-        <option value="$PROJECT_DIR$/Day22/06numpyindex.py" />
-        <option value="$PROJECT_DIR$/Day22/08test.py" />
-        <option value="$PROJECT_DIR$/Day22/07threeDimensionsArray.py" />
-        <option value="$PROJECT_DIR$/Day22/09ArrayExtendDimensions.py" />
-        <option value="$PROJECT_DIR$/Day22/10nptranspose.py" />
-        <option value="$PROJECT_DIR$/Day22/homework.py" />
-        <option value="$PROJECT_DIR$/Day22/11npcombination.py" />
-        <option value="$PROJECT_DIR$/Day23/01splitarr.py" />
-        <option value="$PROJECT_DIR$/Day23/数组的属性.py" />
-        <option value="$PROJECT_DIR$/Day23/numpystatistics.py" />
-        <option value="$PROJECT_DIR$/Day23/保存数据.py" />
-        <option value="$PROJECT_DIR$/Day23/加载数据.py" />
-        <option value="$PROJECT_DIR$/Day23/统计分析.py" />
-        <option value="$PROJECT_DIR$/Day23/统计分析2.py" />
-        <option value="$PROJECT_DIR$/Day23/统计分析-股票波动率.py" />
-        <option value="$PROJECT_DIR$/Day23/日期的格式化.py" />
-        <option value="$PROJECT_DIR$/Day23/统计分析-筛选.py" />
-        <option value="$PROJECT_DIR$/Day23/test.py" />
-        <option value="$PROJECT_DIR$/Day24/00nsq.py" />
-        <option value="$PROJECT_DIR$/Day24/创建随机数组.py" />
-        <option value="$PROJECT_DIR$/Day24/矩阵的运算.py" />
-        <option value="$PROJECT_DIR$/Day24/二元运算符.py" />
-        <option value="$PROJECT_DIR$/Day24/矩阵求逆运算.py" />
-        <option value="$PROJECT_DIR$/Day24/方程组求解.py" />
-        <option value="$PROJECT_DIR$/Day24/求矩阵的特征向量特征值.py" />
-        <option value="$PROJECT_DIR$/Day24/矩阵的行列式.py" />
-        <option value="$PROJECT_DIR$/Day24/搜索函数.py" />
-        <option value="$PROJECT_DIR$/Day24/数组的排序方法.py" />
-        <option value="$PROJECT_DIR$/Day24/homework.py" />
-        <option value="$PROJECT_DIR$/Day25/数组元素的抽取.py" />
-        <option value="$PROJECT_DIR$/Day25/金融计算has.py" />
-        <option value="$PROJECT_DIR$/Day25/testscipy.py" />
-        <option value="$PROJECT_DIR$/Day26/计算偏度和峰度.py" />
         <option value="$PROJECT_DIR$/Day26/样本点百分比位置.py" />
         <option value="$PROJECT_DIR$/Day26/检测数据样本的拟合程度.py" />
         <option value="$PROJECT_DIR$/Day25/zgpa001.py" />
@@ -395,6 +348,44 @@
         <option value="$PROJECT_DIR$/Day27/test3.py" />
         <option value="$PROJECT_DIR$/Day27/test4.py" />
         <option value="$PROJECT_DIR$/Day27/test5.py" />
+        <option value="$PROJECT_DIR$/Day28/useragent2spider.py" />
+        <option value="$PROJECT_DIR$/Day28/01baidu.py" />
+        <option value="$PROJECT_DIR$/Day28/02baidui.py" />
+        <option value="$PROJECT_DIR$/Day28/baidupy27.py" />
+        <option value="$PROJECT_DIR$/Day28/04try.py" />
+        <option value="$PROJECT_DIR$/Day28/gethtml.py" />
+        <option value="$PROJECT_DIR$/Day28/04trya.py" />
+        <option value="$PROJECT_DIR$/Day28/regexpresion.py" />
+        <option value="$PROJECT_DIR$/Day28/homework.py" />
+        <option value="$PROJECT_DIR$/Day29/regexp.py" />
+        <option value="$PROJECT_DIR$/Day29/as.py" />
+        <option value="$PROJECT_DIR$/Day29/01.tianmao.py" />
+        <option value="$PROJECT_DIR$/Day29/51job.py" />
+        <option value="$PROJECT_DIR$/Day29/03.51job.py" />
+        <option value="$PROJECT_DIR$/Day29/defhanshu.py" />
+        <option value="$PROJECT_DIR$/Day29/requestslearn.py" />
+        <option value="$PROJECT_DIR$/Day29/getHtml.py" />
+        <option value="$PROJECT_DIR$/Day29/homework.py" />
+        <option value="$PROJECT_DIR$/Day29/homework_tiammao.py" />
+        <option value="$PROJECT_DIR$/Day29/homework_51job.py" />
+        <option value="$PROJECT_DIR$/Day30/01requestjob.py" />
+        <option value="$PROJECT_DIR$/Day30/00requestbs4.py" />
+        <option value="$PROJECT_DIR$/Day30/加密解密.py" />
+        <option value="E:/Program Files/Anaconda3/Lib/urllib/__init__.py" />
+        <option value="$PROJECT_DIR$/Day30/getimagesrc.py" />
+        <option value="$PROJECT_DIR$/Day30/beautiful.py" />
+        <option value="$PROJECT_DIR$/Day30/beautifulsoupLearn.py" />
+        <option value="$PROJECT_DIR$/Day30/51job4bs4.py" />
+        <option value="$PROJECT_DIR$/Day30/douban_film.py" />
+        <option value="$PROJECT_DIR$/Day30/regx.py" />
+        <option value="$PROJECT_DIR$/Day30/imgtemplate.py" />
+        <option value="$PROJECT_DIR$/Day30/homework_proxy.py" />
+        <option value="$PROJECT_DIR$/Day30/homeworkproxy.py" />
+        <option value="$PROJECT_DIR$/Day31/scrapyLearning.py" />
+        <option value="$PROJECT_DIR$/Day30/homeworkimg.py" />
+        <option value="$PROJECT_DIR$/Day33/sympy学习导数.py" />
+        <option value="$PROJECT_DIR$/Others/decisiontree.py" />
+        <option value="$PROJECT_DIR$/Others/logRegres.py" />
       </list>
     </option>
   </component>
@@ -409,6 +400,22 @@
     <option name="y" value="119" />
     <option name="width" value="1298" />
     <option name="height" value="1016" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Python</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -429,7 +436,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -437,38 +443,42 @@
               <item name="rongda" type="b2602c69:ProjectViewProjectNode" />
               <item name="rongda" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="rongda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rongda" type="462c0819:PsiDirectoryNode" />
-              <item name="Day27" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="description&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/python/py2ai/rongda/Day30/beautiful.py&#10;description&#9;null&#9;null" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="D:/scrapy/douban/douban" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\python\py2ai\rongda\Day23" />
-      <recent name="D:\python\py2ai\rongda\Day21\exam\one" />
-      <recent name="D:\python\py2ai\rongda\resources" />
-      <recent name="D:\python\py2ai\rongda\Day18" />
-      <recent name="D:\python\py2ai\rongda\Day13" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\py2ai\rongda\Others" />
       <recent name="D:\python\py2ai\rongda\Day27" />
       <recent name="D:\python\py2ai\rongda\Day21\exam\one" />
       <recent name="D:\python\py2ai\rongda\resources" />
       <recent name="D:\python\py2ai\rongda\Day12" />
-      <recent name="D:\python\py2ai\rongda\Day11\Day11Homework" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\py2ai\rongda\Others" />
+      <recent name="D:\python\py2ai\rongda\Day30" />
+      <recent name="D:\python\py2ai\rongda\Day23" />
+      <recent name="D:\python\py2ai\rongda\Day21\exam\one" />
+      <recent name="D:\python\py2ai\rongda\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -483,154 +493,154 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test5">
-    <configuration name="保存数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.decisiontree">
+    <configuration name="00requestbs4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day30" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="rongda" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day23/保存数据.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day30/00requestbs4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="数组元素的抽取" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04try" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day28" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="rongda" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day25/数组元素的抽取.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day28/04try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="搜索函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="decisiontree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Others" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="rongda" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day24/搜索函数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Others/decisiontree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test2-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="douban_film" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day27" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day30" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="rongda" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day27/test2-4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day30/douban_film.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test2-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="homeworkimg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day27" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day30" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="rongda" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day27/test2-5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day30/homeworkimg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="scrapyLearning" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day27" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day31" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="rongda" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day27/test4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day31/scrapyLearning.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sympy学习导数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day27" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day33" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="rongda" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day27/test5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day33/sympy学习导数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test2-4" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test2-5" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test4" />
-      <item index="3" class="java.lang.String" itemvalue="Python.保存数据" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test5" />
+      <item index="0" class="java.lang.String" itemvalue="Python.douban_film" />
+      <item index="1" class="java.lang.String" itemvalue="Python.homeworkimg" />
+      <item index="2" class="java.lang.String" itemvalue="Python.scrapyLearning" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sympy学习导数" />
+      <item index="4" class="java.lang.String" itemvalue="Python.decisiontree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test5" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.保存数据" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test2-5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test2-4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.decisiontree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sympy学习导数" />
+        <item index="2" class="java.lang.String" itemvalue="Python.scrapyLearning" />
+        <item index="3" class="java.lang.String" itemvalue="Python.homeworkimg" />
+        <item index="4" class="java.lang.String" itemvalue="Python.douban_film" />
       </list>
     </recent_temporary>
   </component>
@@ -691,27 +701,51 @@
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43671608" sideWeight="0.3916309" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43671608" sideWeight="0.6083691" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1083691" sideWeight="0.4960091" order="0" side_tool="false" content_ui="combo" x="233" y="268" width="292" height="583" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.3943133" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29076397" sideWeight="0.6056867" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19742489" sideWeight="0.4960091" order="0" side_tool="false" content_ui="combo" x="233" y="268" width="292" height="583" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19045064" sideWeight="0.5039909" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.49356222" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42075256" sideWeight="0.49356222" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="848" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31698975" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43671608" sideWeight="0.3916309" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="848" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43671608" sideWeight="0.6083691" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1083691" sideWeight="0.4960091" order="0" side_tool="false" content_ui="combo" x="233" y="268" width="292" height="583" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31698975" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19045064" sideWeight="0.5039909" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.49356222" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -758,134 +792,190 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="31" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day23/统计分析2.py">
+    <entry file="file://$PROJECT_DIR$/Day30/2.jpg" />
+    <entry file="file://E:/Program Files/Anaconda3/Lib/site-packages/bs4/element.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="-600">
+          <caret line="1297" column="8" lean-forward="false" selection-start-line="1297" selection-start-column="8" selection-end-line="1297" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Program Files/Anaconda3/Lib/site-packages/numpy/core/numeric.py">
+    <entry file="file://$PROJECT_DIR$/Day30/regx.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="178" column="17" lean-forward="true" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="420">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day24/homework.py">
+    <entry file="file://E:/Program Files/Anaconda3/Lib/site-packages/bs4/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234">
+        <state relative-caret-position="210">
+          <caret line="191" column="0" lean-forward="false" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day30/image/8.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day30/image/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day30/image/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day30/image/0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day30/image/9.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day30/image/7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day30/image/6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/Anaconda3/Lib/site-packages/scrapy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-499">
+          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day31/scrapyLearning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day30/01requestjob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day24/00nsq.py">
+    <entry file="file://$PROJECT_DIR$/Day30/00requestbs4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="540">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day24/二元运算符.py">
+    <entry file="file://$PROJECT_DIR$/Day30/51job4bs4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day24/创建随机数组.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day24/搜索函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day24/数组的排序方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day24/方程组求解.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day24/求矩阵的特征向量特征值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day23/统计分析.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day22/00numpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2430">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day22/01createnumpy.py">
+    <entry file="file://$PROJECT_DIR$/Day30/beautiful.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-564">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day22/02createtwod.py">
+    <entry file="file://$PROJECT_DIR$/Day30/beautifulsoupLearn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-444">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day22/03createspacilarray.py">
+    <entry file="file://$PROJECT_DIR$/Day30/getimagesrc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-774">
+        <state relative-caret-position="390">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day30/imgtemplate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day30/homeworkproxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day30/homeworkimg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day21/exam/one/data1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day22/05definedatastructure.py">
+    <entry file="file://$PROJECT_DIR$/Day21/exam/one/onecsv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day22/06numpyindex.py">
+    <entry file="file://$PROJECT_DIR$/Day22/homework.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324">
+        <state relative-caret-position="-270">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day22/07threeDimensionsArray.py">
+    <entry file="file://$PROJECT_DIR$/Day22/11npcombination.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-624">
+        <state relative-caret-position="-979">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day22/10nptranspose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day22/09ArrayExtendDimensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-709">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -897,94 +987,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day22/09ArrayExtendDimensions.py">
+    <entry file="file://$PROJECT_DIR$/Day22/07threeDimensionsArray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="41" column="10" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="19" />
+        <state relative-caret-position="-409">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day22/11npcombination.py">
+    <entry file="file://$PROJECT_DIR$/Day22/06numpyindex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="49" column="47" lean-forward="false" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+        <state relative-caret-position="-90">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day22/homework.py">
+    <entry file="file://$PROJECT_DIR$/Day22/05definedatastructure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="-799">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day22/10nptranspose.py">
+    <entry file="file://$PROJECT_DIR$/Day22/04transtordata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day27/test2.py">
+    <entry file="file://$PROJECT_DIR$/Day22/03createspacilarray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day27/test1.py">
+    <entry file="file://$PROJECT_DIR$/Day22/02createtwod.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/人工智能/homework/电影数据分析.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day27/test3.py">
+    <entry file="file://$PROJECT_DIR$/Day22/01createnumpy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day23/加载数据.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day23/数组的属性.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day23/日期的格式化.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day23/01splitarr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day23/homework.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -992,110 +1040,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day23/data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-599">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day23/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="23" column="94" lean-forward="false" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day27/test2-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day27/test2-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day27/test2-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day23/example.txt">
+    <entry file="file://$PROJECT_DIR$/Day23/homework.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-622520107/numpy/core/multiarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="3515" column="11" lean-forward="false" selection-start-line="3515" selection-start-column="8" selection-end-line="3515" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day27/test2-5.py">
+    <entry file="file://$PROJECT_DIR$/Day23/01splitarr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day23/保存数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="34" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Program Files/Anaconda3/Lib/site-packages/numpy/lib/npyio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33390">
-          <caret line="1137" column="33" lean-forward="false" selection-start-line="1137" selection-start-column="22" selection-end-line="1137" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day27/IJ.csv" />
-    <entry file="file://$PROJECT_DIR$/Day27/CD.csv" />
-    <entry file="file://$PROJECT_DIR$/Day25/计算随机样本的峰度.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day27/test4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="62" column="67" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="62" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Program Files/Anaconda3/Lib/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49380">
-          <caret line="1657" column="4" lean-forward="false" selection-start-line="1657" selection-start-column="4" selection-end-line="1657" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day26/计算偏度和峰度.py">
+    <entry file="file://$PROJECT_DIR$/Day23/加载数据.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1103,20 +1076,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day27/test5.py">
+    <entry file="file://E:/Program Files/Anaconda3/Lib/site-packages/numpy/core/numeric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="40" selection-end-column="69" />
-          <folding>
-            <element signature="e#134#157#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-348">
+          <caret line="145" column="4" lean-forward="false" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day27/order.csv">
+    <entry file="file://E:/Program Files/Anaconda3/Lib/site-packages/Cython/Includes/numpy/__init__.pxd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="282">
+          <caret line="160" column="23" lean-forward="true" selection-start-line="160" selection-start-column="23" selection-end-line="160" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/notelearn.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/horseColicTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/decisiontree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day33/sympy学习导数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day23/数组的属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/logRegres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding />
         </state>
       </provider>
